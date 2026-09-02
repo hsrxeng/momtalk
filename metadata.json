@@ -1,0 +1,6 @@
+{
+  "name": "어머니를 위한 왕초보 생활 영어",
+  "description": "60대 이상 시니어를 위한 큰 글씨와 한글 발음이 적힌 초간단 왕초보 생활 영어회화 학습 앱",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
